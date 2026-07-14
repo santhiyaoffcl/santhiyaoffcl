@@ -132,10 +132,10 @@ Seeking Software Developer or Backend Developer opportunities where I can contri
 santhiyaselvakumarofficial@gmail.com
 
 💼 LinkedIn:
-https://linkedin.com/in/YOUR_USERNAME
+https://www.linkedin.com/in/santhiya-selvakumar-2852a2330/
 
 🌐 Portfolio:
-https://YOUR_PORTFOLIO_LINK
+https://portfolio-ten-liart-60.vercel.app/
 
 💻 GitHub:
 https://github.com/santhiyaoffcl
