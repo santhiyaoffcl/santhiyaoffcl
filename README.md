@@ -1,145 +1,178 @@
 <h1 align="center">Hi 👋, I'm Santhiya Selvakumar</h1>
-<h3 align="center">Software Developer | Java Full Stack Developer | AI & Data Analytics Enthusiast</h3>
+
+<h3 align="center">
+Software Developer | Java Full Stack Developer | AI & Data Analytics Enthusiast
+</h3>
 
 <p align="center">
-Passionate about building scalable web applications, REST APIs, and AI-powered solutions using modern technologies.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C4CC&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 🎓 Final Year B.Tech Computer Science & Business Systems Student
 
-💼 Aspiring Software Developer & Data Analyst
+💼 Aspiring Software Developer
 
-🌱 Currently learning
+💡 Passionate about solving real-world problems through technology.
+
+🌱 Currently Learning
+
 - Spring Boot Microservices
-- System Design
 - Data Structures & Algorithms
+- System Design
 - Cloud Deployment
 
-💡 Interested in
-- Full Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Backend Engineering
-- Data Analytics
+🎯 Career Goal
+
+To become a Software Engineer who builds scalable, secure, and intelligent applications.
 
 ---
 
-## 🚀 Technical Skills
+# 🚀 Tech Stack
 
 ### Programming Languages
 
-- Java
-- Python
-- JavaScript
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c" />
+</p>
 
 ### Frontend
 
-- React
-- Angular
-- HTML5
-- CSS3
-- Bootstrap
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,html,css,bootstrap" />
+</p>
 
 ### Backend
 
-- Spring Boot
-- Node.js
-- Express.js
-- REST APIs
+<p>
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
 
 ### Database
 
-- MySQL
-- MongoDB
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
 ### Tools & Technologies
 
-- Git
-- GitHub
-- Docker
-- Postman
-- Maven
-- VS Code
-- IntelliJ IDEA
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,vscode,idea,figma" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🔹 TruPhish
-AI-powered phishing detection system using Machine Learning for real-time URL and email analysis.
+## 🔹 TruPhish
+
+AI-powered phishing detection system capable of analyzing URLs and emails using Machine Learning.
 
 **Tech Stack**
 
-- Python
-- Flask
-- React
-- MongoDB
-- Machine Learning
+React • Python • Flask • MongoDB • Machine Learning
 
 ---
 
-### 🔹 SkillGapAnalyzer
+## 🔹 SkillGapAnalyzer
 
-AI-driven platform that analyzes resumes, identifies skill gaps, and recommends personalized learning paths.
+AI-powered platform that analyzes resumes and recommends personalized learning paths.
 
 **Tech Stack**
 
-- Spring Boot
-- React
-- MongoDB
-- JWT
-- AI APIs
+Spring Boot • React • MongoDB • JWT • AI APIs
 
 ---
 
-### 🔹 FarmChainX
+## 🔹 FarmChainX
 
-Smart Agricultural Supply Chain Platform with secure authentication, QR-based product traceability, and inventory management.
+Smart Agricultural Supply Chain Platform with secure authentication, QR traceability, and inventory management.
 
 **Tech Stack**
 
-- Java
-- Spring Boot
-- Angular
-- MySQL
+Java • Spring Boot • Angular • MySQL
 
 ---
 
-## 📈 Currently Working On
+# 📊 GitHub Statistics
 
-- Advanced Java & Spring Boot
-- DSA for Product Companies
-- AI-Based Full Stack Applications
-- Cloud Deployment
+<p align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=santhiyaoffcl&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-## 🎯 Career Objective
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhiyaoffcl&layout=compact&theme=tokyonight&hide_border=true"/>
 
-Seeking Software Developer or Backend Developer opportunities where I can contribute to designing scalable applications, solving real-world problems, and continuously improving my technical expertise.
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 🔥 GitHub Streak
 
-📧 Email:
-santhiyaselvakumarofficial@gmail.com
+<p align="center">
 
-💼 LinkedIn:
-https://www.linkedin.com/in/santhiya-selvakumar-2852a2330/
+<img src="https://streak-stats.demolab.com?user=santhiyaoffcl&theme=tokyonight&hide_border=true"/>
 
-🌐 Portfolio:
-https://portfolio-ten-liart-60.vercel.app/
-
-💻 GitHub:
-https://github.com/santhiyaoffcl
+</p>
 
 ---
 
-⭐ Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=santhiyaoffcl&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=santhiyaoffcl&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/santhiya-selvakumar-2852a2330/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+<a href="mailto:santhiyaselvakumarofficial@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+</a>
+
+<a href="https://github.com/santhiyaoffcl">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://portfolio-ten-liart-60.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=santhiyaoffcl&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile! ⭐
+</h3>
