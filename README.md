@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santhiya Selvakumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Sofware+Developer+Java+Full+Stack+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Full+Stack+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
