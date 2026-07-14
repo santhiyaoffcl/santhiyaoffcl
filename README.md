@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Santhiya Selvakumar</h1>
 
 <h3 align="center">
-Softwre developer | Full Stack Developer | AI & Machine Learning Enthusiast
+Software developer | Full Stack Developer | AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;React+DeveloperAlways+Learning+New+Technologies" />
 </p>
 
 ---
@@ -32,7 +32,7 @@ Softwre developer | Full Stack Developer | AI & Machine Learning Enthusiast
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,angular,nodejs,express,mysql,mongodb,git,github,docker,postman,maven,vscode,idea,figma"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,javascript,react,angular,nodejs,express,mysql,mongodb,git,github,docker,postman,maven,vscode,figma"/>
 
 </p>
 
