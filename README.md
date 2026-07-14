@@ -183,7 +183,7 @@ Seeking Software Developer or Backend Developer opportunities where I can contri
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID">
+<a href="https://www.linkedin.com/in/santhiya-selvakumar-2852a2330/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -191,7 +191,7 @@ Seeking Software Developer or Backend Developer opportunities where I can contri
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://portfolio-ten-liart-60.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
