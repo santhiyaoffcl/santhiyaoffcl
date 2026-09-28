@@ -134,6 +134,7 @@ My primary interest is **Java Full-Stack Development**, with a growing focus on 
 * 🗄️ MongoDB Atlas persistence
 * 🔌 REST API architecture
 
+🔗 **Live:** https://ai-fin-tech-expense-tracker.vercel.app
 🔗 **Repository:** https://github.com/santhiyaoffcl/AI-FinTech-Expense-Tracker
 
 ---
