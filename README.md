@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="./assets/santhiya-github-animated-banner.gif"
+       width="100%"
+       alt="Santhiya Selvakumar - Java Full-Stack Developer and AI/ML Enthusiast"/>
+</p>
+
+<h2 align="center">
+  Welcome to my GitHub! 👋
+</h2>
+
+
 <h1 align="center">Hi 👋, I'm Santhiya Selvakumar</h1>
 
 <h3 align="center">
