@@ -174,8 +174,12 @@ Built and deployed responsive, cross-device compatible web pages using:
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santhiyaoffcl&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santhiyaoffcl&layout=compact&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santhiyaoffcl&theme=github_dark" width="95%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=santhiyaoffcl&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=santhiyaoffcl&theme=github_dark" width="48%"/>
 </p>
 
 ---
