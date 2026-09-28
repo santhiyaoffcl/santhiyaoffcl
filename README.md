@@ -19,29 +19,7 @@ Java Full-Stack Developer • AI/ML Enthusiast • Computer Science & Business S
   </a>
 </p>
 
-<p align="center">
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-Visit-181717?style=for-the-badge"/>
-</a>
-
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-Connect-0A66C2?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/santhiyaoffcl">
-<img src="https://img.shields.io/badge/🐙%20GITHUB-Follow-181717?style=for-the-badge"/>
-</a>
-
-<a href="https://leetcode.com/u/Santhiyaselvakumar">
-<img src="https://img.shields.io/badge/⚡%20LEETCODE-Solve-FFA116?style=for-the-badge"/>
-</a>
-
-<a href="mailto:santhiyaselvakumarofficial@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL-Contact-D14836?style=for-the-badge"/>
-</a>
-
-</p>
 ---
 
 ## 👩‍💻 About Me
